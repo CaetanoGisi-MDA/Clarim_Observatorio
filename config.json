@@ -10,7 +10,7 @@
           "url_feed": "https://osociobio.org.br/feed/",
           "url_sitemap": "",
           "url_base": "https://osociobio.org.br",
-          "ultima_novidade": "2026-09-08T10:49:11.237304+00:00",
+          "ultima_novidade": "2026-09-09T10:55:16.220562+00:00",
           "alerta": false,
           "motivo_alerta": null
         },
@@ -23,7 +23,7 @@
           "url_base": "https://oeco.org.br/source/observatorio-do-clima/",
           "ultima_novidade": "2026-07-11T21:38:43.024716+00:00",
           "alerta": true,
-          "motivo_alerta": "Sem novidades há 58 dias"
+          "motivo_alerta": "Sem novidades há 59 dias"
         },
         {
           "id": "observatorio-da-mineracao",
@@ -32,7 +32,7 @@
           "url_feed": "https://observatoriodamineracao.com.br/feed/",
           "url_sitemap": "",
           "url_base": "https://observatoriodamineracao.com.br",
-          "ultima_novidade": "2026-09-08T10:49:13.735804+00:00",
+          "ultima_novidade": "2026-09-09T10:55:19.034644+00:00",
           "alerta": false,
           "motivo_alerta": null
         },
@@ -43,7 +43,7 @@
           "url_feed": "https://ispn.org.br/feed/",
           "url_sitemap": "",
           "url_base": "https://ispn.org.br",
-          "ultima_novidade": "2026-09-08T10:49:17.336067+00:00",
+          "ultima_novidade": "2026-09-09T10:55:20.867793+00:00",
           "alerta": false,
           "motivo_alerta": null
         },
@@ -54,7 +54,7 @@
           "url_feed": "https://sumauma.com/feed/",
           "url_sitemap": "",
           "url_base": "",
-          "ultima_novidade": "2026-09-05T10:08:48.091353+00:00",
+          "ultima_novidade": "2026-09-09T10:55:22.252489+00:00",
           "alerta": false,
           "motivo_alerta": null
         }
